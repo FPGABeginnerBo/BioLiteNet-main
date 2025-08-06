@@ -1,2 +1,3 @@
-# BioLiteNet-main
+# BioLiteNet: A Biomimetic Lightweight Hyperspectral Image
+Classification Model
 
